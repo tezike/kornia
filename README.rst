@@ -62,16 +62,6 @@ At a granular level, Kornia is a library that consists of the following componen
 Installation
 ============
 
-We recommend Anaconda as Python package management system. Please refer to `pytorch.org <https://pytorch.org/>`_
-for the detail of PyTorch (``torch``) installation. The following is the corresponding ``torchvision`` versions and
-supported Python versions.
-
-
-
-
-Installation
-============
-
 **From pip:**
 
 .. code:: bash
