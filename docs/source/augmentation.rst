@@ -5,7 +5,7 @@ kornia.augmentation
 
 The classes in this section perform various data augmentation operations.
 
-Kornia provides Torchvision-like augmentation APIs while may not reproduce Torchvision, because Kornia is a library aligns to OpenCV functionalities, not PIL. Besides, pure floating computation is used in Kornia which gaurentees a better precision without any float -> uint8 conversions. To be specified, the different functions are:
+Kornia provides Torchvision-like augmentation APIs which may not reproduce Torchvision, because Kornia is a library aligns to OpenCV functionalities, not PIL. Besides, pure floating computation is used in Kornia which gaurentees a better precision without any float -> uint8 conversions. To be specified, the different functions are:
 
 - AdjustContrast
 - AdjustBrightness
